@@ -33,7 +33,7 @@
 - 🛠️ Full-Stack Developer with a passion for creating scalable and intuitive applications  
 - 💳 Capstone: **RFID-Based Cashless Payment System for School Canteens**  
 - 💡 Interests: Web Development, Cybersecurity, AI & Machine Learning  
-- 🚀 Currently working on full-stack apps using **React**, **Django**, and **Flask**  
+- 🚀 Currently working on full-stack apps using **React**, **Laravel**, **Django**, and **Flask**  
 - 🌱 Lifelong learner committed to staying updated with modern tech trends  
 
 ---
