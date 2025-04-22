@@ -1,56 +1,74 @@
-<h1>👨‍💻 Errold Jay C. Batay-an</h1>
+<h1 align="center">👨‍💻 Errold Jay C. Batay-an</h1>
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="100" />
-  &nbsp;&nbsp;
-  <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100" height="100" />
-  &nbsp;&nbsp;
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100" />
-  &nbsp;&nbsp;
-  <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100" height="100" />
-  &nbsp;&nbsp;
-  <img alt="Laravel" src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" width="100" height="100" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="VueJS" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="60" height="60"/>
 </p>
 
 <p align="center">
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100" />
-  &nbsp;&nbsp;
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" height="100" />
-  &nbsp;&nbsp;
-  <img alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="100" height="100" />
-  &nbsp;&nbsp;
-  <img alt="VueJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="100" height="100" />
-  &nbsp;&nbsp;
-  <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100" height="100" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
+  <img src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" alt="Laravel" width="80" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
 </p>
-
-<p align="center">
-  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="100" height="100" />
-  &nbsp;&nbsp;
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" height="100" />
-  &nbsp;&nbsp;
-  <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100" height="100" />
-  &nbsp;&nbsp;
-  <img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="100" height="100" />
-  &nbsp;&nbsp;
-  <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="100" height="100" />
-</p>
-
-
-
 
 ---
 
-### 👨‍💻 About Me
+### 👋 About Me
 
-- 🎓 4th Year Bachelor of Science in Information Systems  
-- 💡 Capstone: **Cashless Payment System Using RFID**
-- ⚙️ Interests: Web Development, Cybersecurity, AI/ML
-- 🚀 Currently building full-stack apps with **React**, **Flask**, and **Django**
-- 🌱 Always exploring new tech and sharpening skills!
+- 🎓 4th Year BS in Information Systems Student  
+- 🛠️ Full-Stack Developer with a passion for creating scalable and intuitive applications  
+- 💳 Capstone: **RFID-Based Cashless Payment System for School Canteens**  
+- 💡 Interests: Web Development, Cybersecurity, AI & Machine Learning  
+- 🚀 Currently working on full-stack apps using **React**, **Django**, and **Flask**  
+- 🌱 Lifelong learner committed to staying updated with modern tech trends  
 
 ---
+
+### 📁 Projects
+
+- 🔐 **[Real-Time Sign Language & Voice-to-Text System](#)** – Sign-to-text and speech-to-sign communication system using React & Flask  
+- 💳 **[RFID-Based Cashless Payment System](#)** – School canteen payment system using student IDs  
+- 🏕️ **[TFCI RFID Ticketing System](#)** – RFID-based digital ticketing system for tourism control  
+- ⛪ **[Church Management System](#)** – Simplifies financial tracking for churches  
+- 🧠 **[Harmony Recommendation System](#)** – AI-powered system to suggest harmonies based on tonal features
+
+> *(Replace `#` with your actual GitHub repo links)*
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
