@@ -29,8 +29,8 @@
 
 ### 👋 About Me
 
+- 🛠️ I’m Errold Jay C. Batay-an, a passionate Full-Stack Developer with expertise in building robust, user-friendly web applications from front to back. I thrive on solving complex problems, creating seamless user experiences, and delivering scalable solutions. With a         strong foundation in modern technologies, I’m dedicated to crafting clean, efficient, and maintainable code.  
 - 🎓 4th Year BS in Information Systems Student  
-- 🛠️ I’m Errold Jay C. Batay-an, a passionate Full-Stack Developer with expertise in building robust, user-friendly web applications from front to back. I thrive on solving complex problems, creating seamless user experiences, and delivering scalable solutions. With a strong foundation in modern technologies, I’m dedicated to crafting clean, efficient, and maintainable code.  
 - 💳 Capstone: **RFID-Based Cashless Payment System for School Canteens**  
 - 💡 Interests: Web Development, Cybersecurity, AI & Machine Learning  
 - 🚀 Currently working on full-stack apps using **React**, **Laravel**, **Django**, and **Flask**  
