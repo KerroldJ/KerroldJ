@@ -30,12 +30,10 @@
 
 ### 👋 About Me
 
-- 🎓 4th Year BS in Information Systems Student  
-- 🛠️ I’m Errold Jay C. Batay-an, a passionate Full-Stack Developer with expertise in building robust, user-friendly web applications from front to back. I thrive on solving complex problems, creating seamless user experiences, and delivering scalable solutions. With a strong foundation in modern technologies, I’m dedicated to crafting clean, efficient, and maintainable code.  
-- 💳 Capstone: **RFID-Based Cashless Payment System for School Canteens**  
-- 💡 Interests: Web Development, Cybersecurity, AI & Machine Learning  
-- 🚀 Currently working on full-stack apps using **React**, **Laravel**, **Django**, and **Flask**  
-- 🌱 Lifelong learner committed to staying updated with modern tech trends  
+- I am a Full-Stack Developer with practical experience in building high-performance, scalable applications across a range of technologies. I specialize in both frontend and backend development, delivering clean, reliable, and well-architected software solutions. On the frontend, I use React.js to create dynamic, responsive, and user-friendly interfaces. On the backend, I work with Python (Django) to develop robust server-side logic and with Laravel to build secure, maintainable web applications. I also have strong expertise in MySQL and PostgreSQL, ensuring reliable and optimized database management.
+- During my college years, I successfully developed my Capstone Project titled "RFID Canteen Cashless Payment System" a technology-driven solution designed to digitize and streamline school canteen transactions through RFID-enabled ID cards. This system enhances speed, security, and convenience in daily operations. The project was selected for presentation during the University?s In-house Review, where it received recognition for its innovation and real-world impact.
+- In addition to academic projects, I participated in the HackforGov II 2023 DICT CTF Challenge, a national cybersecurity competition organized by the Department of Information and Communications Technology (DICT). This opportunity allowed me to sharpen my skills in cybersecurity, critical thinking, and collaborative problem-solving under pressure.
+- My Goal is to build innovative, high-quality software solutions that solve real problems, embrace modern technologies, and deliver meaningful experiences to users.  
 
 ---
 
