@@ -68,6 +68,66 @@
 
 ---
 
+### 🛠️ Projects
+
+#### 📌 RFID Canteen Cashless Payment System  
+**Laravel, MySQL, Tailwind CSS**  
+- Developed a cashless payment system using RFID technology for fast and secure student transactions.
+- Implemented real-time balance checking, transaction history, and admin dashboard.
+- Enhanced convenience and accountability by eliminating the need for physical cash handling.
+
+#### 📌 Church Management System  
+**Laravel, Vue.js, MySQL**  
+- Created a system for managing members, attendance, tithes/offerings, and church branches.
+- Integrated role-based access control (Admin, Kab, Kid) for managing permissions and feature visibility.
+- Streamlined operations through reporting tools and a user-friendly interface for pastors and staff.
+
+#### 📌 RFID Ticketing System – Coron, Palawan  
+**React.js, Django (Python), MySQL**  
+- Designed and deployed an RFID-based ticketing system for local tourism in Coron, Palawan.
+- Enabled efficient check-ins/check-outs, real-time tracking, and reduced manual errors.
+- Built an intuitive frontend with React.js and a secure API backend with Flask and MongoDB.
+
+#### 📌 Risk Management System – Internship Project  
+**Laravel, PostgreSQL, Vue.js**  
+- Collaborated with a development team to build a risk assessment and mitigation platform.
+- Focused on backend development with user management, risk scoring, and mitigation planning.
+- Implemented secure access controls, audit logs, and structured data handling.
+
+---
+
+### ⚙️ Skills
+
+**Languages & Frameworks**  
+Python (Django), PHP (Laravel), JavaScript (React.js, Vue.js, Next.js)
+
+**Tools & Platforms**  
+Git, GitHub, Visual Studio Code, Postman, RESTful APIs
+
+**Frontend**  
+HTML5, CSS3, Tailwind CSS, Bootstrap
+
+**Database Management**  
+MySQL, PostgreSQL
+
+---
+
+### 🎓 Education
+
+**Bachelor of Science in Information Systems**  
+University of Southern Mindanao — *Aug 2021 – Jun 2025*  
+**Capstone Project:** RFID Canteen Cashless Payment System
+
+---
+
+### 🌐 Language
+
+- English  
+- Tagalog  
+- Ilocano
+
+---
+
 ### 📬 Connect with Me
 
 <p align="center">
